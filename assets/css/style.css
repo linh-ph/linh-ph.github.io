@@ -52,3 +52,19 @@ b {
   box-shadow: 0 0 8rem 2rem rgba(89, 188, 49, 0.5);
   border: 2px double #1c291c;
 }/*# sourceMappingURL=style.css.map */
+/* TEXT LEFT RIGHT */
+.container {
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 3rem;
+}
+/* 
+.left-text {
+  width: 50%;
+  text-align: left;
+}
+
+.right-text {
+  width: 50%;
+  text-align: right;
+} */
