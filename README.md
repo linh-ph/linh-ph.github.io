@@ -1,14 +1,3 @@
-<div align="center">
-
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DSDmark/FlappyBrid)
-![GitHub](https://img.shields.io/github/license/DSDmark/FlappyBrid)
-![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/FlappyBrid)
-![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/FlappyBrid)
-[![Deploy static content to Pages](https://github.com/DSDmark/FlappyBrid/actions/workflows/static.yml/badge.svg)](https://github.com/DSDmark/FlappyBrid/actions/workflows/static.yml)
-
-# AS੯ames Collection
-
-<div>
 
 ---
 
@@ -40,15 +29,4 @@ Once you are done playing you can close the tab in your browser to quit the game
 <a href="https://dsdmark.github.io/FlappyBrid/" alt="Flappy Brid Demo">Flappy Brid Demo</a>
 
 </div>
-
-### Flappy Brid
-
-![Flappy Brid preview](assets/images/preview.gif "AS੯ames Collection")
-
-</div>
-
-> If you have any issues with the game feel free to let me know!
-
-> If you are more interested, check out the collection of [ **AS੯ames**](https://github.com/DSDmark/ASGames "AS੯ames Collection").
-
 ---
