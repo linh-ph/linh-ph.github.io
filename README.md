@@ -1,4 +1,3 @@
-
 ### How to play
 
 1. Click on green **Clone or download** button and choose Download ZIP.
@@ -15,6 +14,3 @@ Once you are done playing you can close the tab in your browser to quit the game
 ## Try out Demo:-
 
 <a href="https://playwithme.me/" alt="Flappy Brid Demo">Flappy Brid Demo</a>
-
-</div>
----
