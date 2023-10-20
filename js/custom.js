@@ -47,24 +47,24 @@ $(document).ready(function() {
 	});
 	
 	// Quantity slider function.
-	var slider = document.getElementById('quantity-slider');
-	noUiSlider.create(slider, {
-		start: [1],
-		step: 1,
-		connect: 'lower',
-		range: {
-			'min': 1,
-			'max': 500
-		},
-		format: wNumb({
-		   decimals: 0
-		}),
-	});
-	var rangeSliderValueElement = document.getElementById('quantity-amount');
-	slider.noUiSlider.on('update', function (values, handle) {
-		rangeSliderValueElement.innerHTML = values[handle];
-		$("input:hidden[name=quantity]").val(values[handle]);
-	});
+	// var slider = document.getElementById('quantity-slider');
+	// noUiSlider.create(slider, {
+	// 	start: [1],
+	// 	step: 1,
+	// 	connect: 'lower',
+	// 	range: {
+	// 		'min': 1,
+	// 		'max': 500
+	// 	},
+	// 	format: wNumb({
+	// 	   decimals: 0
+	// 	}),
+	// });
+	// var rangeSliderValueElement = document.getElementById('quantity-amount');
+	// slider.noUiSlider.on('update', function (values, handle) {
+	// 	rangeSliderValueElement.innerHTML = values[handle];
+	// 	$("input:hidden[name=quantity]").val(values[handle]);
+	// });
 	
 	// App form function
 	$("#app-form").on("submit", function(e) {
