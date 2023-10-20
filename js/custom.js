@@ -14,6 +14,14 @@ $(document).ready(function() {
 		shuffle: false
 	});
 	
+	$(".fromBen").typed({
+		strings: ["From Ben With Love - Vietnamese Women's Day"],
+		typeSpeed: 50,
+		backDelay: 2500,
+		loop: true,
+		shuffle: false
+	});
+	
 	// Radio gender overlay
 	$("#radio-gender-overlay").jic({
 		selection_mode:'overlay',
